@@ -99,3 +99,5 @@ console.log(house.sleepRitual());
 * Accessing objects methods
 
 * Creating object 'getter' and 'setter' methods
+
+Final Thought: A javascript object help describe and represent real items, in the real world. A real-world object like a house or a car, has a tremendous amount of data associated with how you might describe it. In other words, the house object has many layers of data associated with it. Understanding this data structure complexity is an important first step in being able to use Javascript to improve the world around you.
